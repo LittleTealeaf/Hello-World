@@ -1,5 +1,6 @@
 # Hello-World
-Hello.. Github
-# THIS IS DA BEST TESTING TESTING TESTING TESTING
-## Testing MWAHAHAHAHAAHHAHHHAHHAAHAH
-### jaowiefjaow efjaoiwejfawoiefja woefjawoefjawoefjaweoifjawoeifjaowfjaoweifjaoweifj
+Hello to the Github World
+
+## This is a sub header
+That's something I didn't know
+`is this a code block?`
